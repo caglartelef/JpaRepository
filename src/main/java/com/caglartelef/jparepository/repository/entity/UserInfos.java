@@ -5,8 +5,17 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
+/**
+ *  This class is the table on database.
+ * */
 @Entity
 public class UserInfos {
+
+    /**
+     * id is auto generated value.
+     *
+     * */
+
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;

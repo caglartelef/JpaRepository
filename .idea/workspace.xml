@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d6b6e3e-8ae0-4e94-8bbd-416214c1affb" name="Default Changelist" comment="" />
+    <list default="true" id="6d6b6e3e-8ae0-4e94-8bbd-416214c1affb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JpaRepository.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JpaRepository.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/caglartelef/jparepository/JparepositoryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/caglartelef/jparepository/JpaRepositoryApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/caglartelef/jparepository/exceptions/exceptions/RepositoryException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/caglartelef/jparepository/exceptions/exceptions/RepositoryException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/caglartelef/jparepository/exceptions/handling/GlobalExceptionsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/caglartelef/jparepository/exceptions/handling/GlobalExceptionsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/caglartelef/jparepository/repository/IRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/caglartelef/jparepository/repository/IRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/caglartelef/jparepository/repository/entity/UserInfos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/caglartelef/jparepository/repository/entity/UserInfos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/caglartelef/jparepository/repository/service/RepositoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/caglartelef/jparepository/repository/service/RepositoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/caglartelef/jparepository/JparepositoryApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/caglartelef/jparepository/JpaRepositoryApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/caglartelef/jparepository/repository/service/RepositoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/caglartelef/jparepository/repository/service/RepositoryService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +29,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Jpa Repository" />
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1VcAKW5AZH9zBVC6w2nXR3fG7Tl" />
@@ -34,13 +48,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
-    <configuration name="JparepositoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="JpaRepositoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="JpaRepository" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.caglartelef.jparepository.JparepositoryApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.caglartelef.jparepository.JpaRepositoryApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,11 +85,18 @@
       <option name="presentableId" value="Default" />
       <updated>1577541945580</updated>
       <workItem from="1577541949832" duration="8883000" />
+      <workItem from="1577551817085" duration="8800000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Jpa Repository" />
+      <path value="$PROJECT_DIR$/Jpa-Repository" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="72" key="#Auto_Import" timestamp="1577544338911">
@@ -84,14 +107,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="72" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1577549523560" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577563521688">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577563521688" />
     <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1577544632215">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577544632215" />
-    <state x="397" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577548485743">
+    <state x="397" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577563476591">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="397" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1577548485743" />
+    <state x="397" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1577563476591" />
     <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577547407716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -104,62 +131,62 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="416" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1577545546075" />
-    <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1577549374500">
+    <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1577552041511">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577549374499" />
-    <state width="1493" height="296" key="GridCell.Tab.0.bottom" timestamp="1577551256954">
+    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577552041511" />
+    <state width="1493" height="296" key="GridCell.Tab.0.bottom" timestamp="1577563653811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577551256954" />
-    <state width="1493" height="296" key="GridCell.Tab.0.center" timestamp="1577551256954">
+    <state width="1493" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577563653811" />
+    <state width="1493" height="296" key="GridCell.Tab.0.center" timestamp="1577563653811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="296" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577551256954" />
-    <state width="1493" height="296" key="GridCell.Tab.0.left" timestamp="1577551256953">
+    <state width="1493" height="296" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577563653811" />
+    <state width="1493" height="296" key="GridCell.Tab.0.left" timestamp="1577563653811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="296" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577551256953" />
-    <state width="1493" height="296" key="GridCell.Tab.0.right" timestamp="1577551256954">
+    <state width="1493" height="296" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577563653811" />
+    <state width="1493" height="296" key="GridCell.Tab.0.right" timestamp="1577563653811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="296" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577551256954" />
-    <state width="1493" height="296" key="GridCell.Tab.1.bottom" timestamp="1577551256954">
+    <state width="1493" height="296" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577563653811" />
+    <state width="1493" height="296" key="GridCell.Tab.1.bottom" timestamp="1577563653811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="296" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577551256954" />
-    <state width="1493" height="296" key="GridCell.Tab.1.center" timestamp="1577551256954">
+    <state width="1493" height="296" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577563653811" />
+    <state width="1493" height="296" key="GridCell.Tab.1.center" timestamp="1577563653811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="296" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577551256954" />
-    <state width="1493" height="296" key="GridCell.Tab.1.left" timestamp="1577551256954">
+    <state width="1493" height="296" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577563653811" />
+    <state width="1493" height="296" key="GridCell.Tab.1.left" timestamp="1577563653811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="296" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577551256954" />
-    <state width="1493" height="296" key="GridCell.Tab.1.right" timestamp="1577551256954">
+    <state width="1493" height="296" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577563653811" />
+    <state width="1493" height="296" key="GridCell.Tab.1.right" timestamp="1577563653811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="296" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577551256954" />
-    <state width="1493" height="296" key="GridCell.Tab.2.bottom" timestamp="1577551256955">
+    <state width="1493" height="296" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577563653811" />
+    <state width="1493" height="296" key="GridCell.Tab.2.bottom" timestamp="1577563653811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="296" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577551256955" />
-    <state width="1493" height="296" key="GridCell.Tab.2.center" timestamp="1577551256954">
+    <state width="1493" height="296" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577563653811" />
+    <state width="1493" height="296" key="GridCell.Tab.2.center" timestamp="1577563653811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="296" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1577551256954" />
-    <state width="1493" height="296" key="GridCell.Tab.2.left" timestamp="1577551256954">
+    <state width="1493" height="296" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1577563653811" />
+    <state width="1493" height="296" key="GridCell.Tab.2.left" timestamp="1577563653811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="296" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1577551256954" />
-    <state width="1493" height="296" key="GridCell.Tab.2.right" timestamp="1577551256955">
+    <state width="1493" height="296" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1577563653811" />
+    <state width="1493" height="296" key="GridCell.Tab.2.right" timestamp="1577563653811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="296" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1577551256955" />
-    <state x="277" y="56" key="SettingsEditor" timestamp="1577549468716">
+    <state width="1493" height="296" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1577563653811" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1577552476817">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577549468716" />
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577552476817" />
     <state x="332" y="144" key="Vcs.Push.Dialog.v2" timestamp="1577550585181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
