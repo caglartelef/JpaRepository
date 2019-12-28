@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: Jpa Repository
+
+  jpa:
+    generate-ddl: true
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      dialect: org.hibernate.dialect.MySQL5Dialect
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://www.caglartelef.com:3306/caglarte_spring?requireSSL=false&useSSL=false
+    username: caglarte_spring
+    password: xOiFW71pBw

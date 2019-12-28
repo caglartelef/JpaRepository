@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: Jpa Repository
+
+  jpa:
+    generate-ddl: true
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      dialect: org.hibernate.dialect.MySQL5Dialect
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://MySqlDatabaseUrl:3306/DatabaseName?requireSSL=false&useSSL=false
+    username: username
+    password: password
